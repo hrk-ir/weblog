@@ -1,0 +1,9 @@
+{
+    "Auth": true,
+    "User": true,
+    "Common": true,
+    "Dashboard": true,
+    "Category": true,
+    "Article": true,
+    "Comment": true
+}
