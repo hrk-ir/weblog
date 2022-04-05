@@ -4,4 +4,4 @@
 sample blog project with laravel 8 + jwt api + Modular
 
 
-git clone https://github.com/hrk-ir/weblog.git & enjoy it
+git clone https://github.com/hrk-ir/weblog.git & use it
